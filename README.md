@@ -1,5 +1,3 @@
-# Verificacao
-
 # 1 Criar projeto no Git
 # 2 Clonar o projeto na sua máquina (prompt de comando)
 # 3 Adicionar alguma informação no projeto
